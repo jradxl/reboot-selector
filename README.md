@@ -12,5 +12,5 @@ the User to choose which OS to boot
 When running ./choose-os.sh on the Ubuntu server, the updating of Tumbleweed's Grub2 config is more awkward.
 It needs a Chroot from Ubuntu into Tumbleweed to update the bootloader
 
-//ends
+//ends  
 2025-04-22
